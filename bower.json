@@ -1,0 +1,10 @@
+{
+  "name": "code-rider.com",
+  "homepage": "http://code-rider.com",
+  "authors": [
+    "Travis Jeppson <stmpy@me.com>"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
