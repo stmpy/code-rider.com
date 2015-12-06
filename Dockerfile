@@ -1,2 +1,3 @@
-FROM httpd:2.4
-COPY ./public/ /usr/local/apache2/htdocs/
+FROM nginx:1.9
+
+COPY /config/nginx/site.conf /etc/nginx/conf.d/default.conf

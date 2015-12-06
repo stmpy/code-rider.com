@@ -58,4 +58,4 @@ module.exports = (grunt) ->
   grunt.loadNpmTasks 'grunt-contrib-watch'
   grunt.loadNpmTasks 'grunt-contrib-copy'
 
-  grunt.registerTask 'default', ['less:production','copy']
+  grunt.registerTask 'default', ['less','copy']

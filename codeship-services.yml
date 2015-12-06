@@ -1,4 +1,0 @@
-app:
-  build:
-    image: stmpy/code-rider.com
-    dockerfile: Dockerfile
